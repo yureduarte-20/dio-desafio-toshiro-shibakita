@@ -14,4 +14,8 @@ Após isto, segui as instruções normalmente o qual consegui instalar o docker 
 
 ## 2° Etapa do desafio
 Após configurar o servidor apache dei início na configuração de réplicas de containers usando o swarm
-![image](https://user-images.githubusercontent.com/60445477/185661497-d25314b0-69dd-4901-9a30-721d1fd3dd0b.png)
+![containers replicados](https://user-images.githubusercontent.com/60445477/185661497-d25314b0-69dd-4901-9a30-721d1fd3dd0b.png)
+
+Com as réplicas configuradas, foi-se nesecessário compartilhar os volumes do docker de cada réplica, para isto usamos o nfs-server.
+![servidor nfs](https://user-images.githubusercontent.com/60445477/185671589-e502c3b4-a47f-4fb3-9f36-a4e9efe4e743.png)
+
