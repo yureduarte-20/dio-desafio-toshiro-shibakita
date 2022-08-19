@@ -12,4 +12,6 @@ Após isto, segui as instruções normalmente o qual consegui instalar o docker 
 
 ![Imagem da página ](https://user-images.githubusercontent.com/60445477/185473860-9c79be7e-234c-4d0b-b82b-a33c2e5be798.png)
 
-
+## 2° Etapa do desafio
+Após configurar o servidor apache dei início na configuração de réplicas de containers usando o swarm
+![image](https://user-images.githubusercontent.com/60445477/185661497-d25314b0-69dd-4901-9a30-721d1fd3dd0b.png)
