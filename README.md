@@ -19,3 +19,8 @@ Após configurar o servidor apache dei início na configuração de réplicas de
 Com as réplicas configuradas, foi-se nesecessário compartilhar os volumes do docker de cada réplica, para isto usamos o nfs-server.
 ![servidor nfs](https://user-images.githubusercontent.com/60445477/185671589-e502c3b4-a47f-4fb3-9f36-a4e9efe4e743.png)
 
+## 3° Etapa
+
+E por final, configuramos um servidor proxy para não sobrecarregar o sistema
+![Amostra dos container rodando](https://user-images.githubusercontent.com/60445477/185675702-c25c9291-a7f8-46c4-9c4f-4c890b6ba673.png)
+
